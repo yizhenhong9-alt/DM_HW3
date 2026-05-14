@@ -1,0 +1,2 @@
+V3 Accuracy: 0.9741
+V3 Optimized ROC-AUC Score: 0.9866
